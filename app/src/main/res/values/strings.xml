@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="restart">Restart</string>
+    <string name="generic_error">An error has occurred</string>
+    <string name="cloud">Cloud</string>
+    <string-array name="loading_messages">
+        <item>We are downloading the data…</item>
+        <item>It\'s almost done…</item>
+        <item>A few more seconds before the result…</item>
+    </string-array>
+</resources>

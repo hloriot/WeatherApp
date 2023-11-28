@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="start">Commencer</string>
+    <string name="back">Retour</string>
+    <string name="restart">Recommencer</string>
+    <string name="generic_error">Une erreur s\'est produite</string>
+    <string name="cloud">Nuage</string>
+    <string-array name="loading_messages">
+        <item>Nous téléchargeons les données…</item>
+        <item>C’est presque fini…</item>
+        <item>Plus que quelques secondes avant d’avoir le résultat…</item>
+    </string-array>
+</resources>
