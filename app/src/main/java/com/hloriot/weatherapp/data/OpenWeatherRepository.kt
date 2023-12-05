@@ -46,7 +46,7 @@ class OpenWeatherRepository(private val ioDispatcher: CoroutineDispatcher = Disp
     }
 
     private companion object {
-        private const val API_KEY = "d93fcd97823b0d001254cfab7e70e06e"
+        private const val API_KEY = "13e894e804053de91066a9653e38f091"
     }
 
 }
