@@ -2,6 +2,8 @@
 
 WeatherApp is a technical assessment for Exomind.
 
+Please enter a **VALID** API Key inside [OpenWeatherRepository.kt](app/src/main/java/com/hloriot/weatherapp/data/OpenWeatherRepository.kt#L49) before testing.
+
 ## Subject
 
 The assessment was given as follow:
